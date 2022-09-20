@@ -1,0 +1,8 @@
+site_name: App Platform Strategy Workshop - Americas
+nav:
+  - Home: index.md
+  - Day 1 Agenda and Activities: day1.md
+  - Day 2 Agenda and Activities: day2.md
+  - Day 3 Agenda and Activities: day3.md
+theme: readthedocs
+extra_css: ["extra.css"]

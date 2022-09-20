@@ -1,0 +1,1 @@
+# App Platform Strategy Workshop - Virtual
