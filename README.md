@@ -1,1 +1,1 @@
-# App Platform Strategy Workshop - Virtual
+# App Platform Strategy Workshop - Americas
