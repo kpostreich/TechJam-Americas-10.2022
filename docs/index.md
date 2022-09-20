@@ -5,7 +5,9 @@
 
 **October 4 - October 6 ** 
 
-Virtual event
+Join WebEx: TBD
+
+Slack Channel for class communications: TBD
 
 
 **Application Platform Technical Strategy Workshop Agenda**
