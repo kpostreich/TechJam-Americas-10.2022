@@ -5,9 +5,9 @@
 
 **October 4 - October 6 ** 
 
-Join WebEx: TBD
+Join WebEx: [https://ibm.webex.com/ibm/j.php?MTID=m9a8fde2ce1c03fcbbb42da434f5d7971](https://ibm.webex.com/ibm/j.php?MTID=m9a8fde2ce1c03fcbbb42da434f5d7971)
 
-Slack Channel for class communications: TBD
+Slack Channel for class communications: [https://ibm-cloudpak-partners.slack.com/archives/C04398YMXBN](https://ibm-cloudpak-partners.slack.com/archives/C04398YMXBN)
 
 
 **Application Platform Technical Strategy Workshop Agenda**
@@ -19,7 +19,7 @@ Slack Channel for class communications: TBD
 
 **Agenda**
 
-[TechJam Agenda](https://ibm.box.com/v/TechJam-Americas-agenda)
+[TechJam Agenda](https://ibm.box.com/v/Americas-Techjam-Agenda)
 
 
 **Presentations**
