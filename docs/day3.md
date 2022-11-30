@@ -25,7 +25,7 @@ Day 2 Operations Best practices & Performance tuning | [presentation](https://i
 
   **NOTE:** This lab uses a different lab environment than lab 1151 - WebSphere Automation.  Use the link below to reserve an environment for lab 1162.
   
-  **Reserve 1162 lab environment here:** [App Mod techzone lab environment](https://techzone.ibm.com/my/reservations/create/60ff1bdb3e00b8001fdf3b2f)
+  **Reserve 1162 lab environment here:** [App Mod techzone lab environment](https://techzone.ibm.com/my/reservations/create/6387aa80eb61a800183d69d3)
   
   
   **Lab Guide:**  [https://github.com/IBMTechSales/klp-workshop-labs/tree/master/1162-LibertyApplicationManagement](https://github.com/IBMTechSales/klp-workshop-labs/tree/master/1162-LibertyApplicationManagement)
