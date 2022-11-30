@@ -1,0 +1,39 @@
+# App Platform TechJam - Americas
+
+![](images/techjam.png)
+
+
+**October 4 - October 6 ** 
+
+Join WebEx: [https://ibm.webex.com/ibm/j.php?MTID=m9a8fde2ce1c03fcbbb42da434f5d7971](https://ibm.webex.com/ibm/j.php?MTID=m9a8fde2ce1c03fcbbb42da434f5d7971)
+
+Slack Channel for class communications: [https://ibm-cloudpak-partners.slack.com/archives/C04398YMXBN](https://ibm-cloudpak-partners.slack.com/archives/C04398YMXBN)
+
+
+**Application Platform TechJam Agenda**
+
+  - This is a 3 day technical workshop.  
+  - Refer to the daily agenda pages from the left-navigation section.
+  
+  
+
+**Agenda**
+
+[TechJam Agenda](https://ibm.box.com/v/Americas-Techjam-Agenda)
+
+
+**Presentations**
+
+[Americas TechJam presentations](https://ibm.box.com/v/Americas-TechJam-Presentations)
+
+
+
+**Hands on Activities**
+
+
+From the _navigation menu_, select the **Daily Agenda and Activities** item to view the daily agenda for this technical workshop. 
+
+There, you will also find the links to the hands-on **lab guides** and information to accces the **Skytap lab environments** 
+
+
+
